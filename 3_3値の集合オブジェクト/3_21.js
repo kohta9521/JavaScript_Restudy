@@ -4,3 +4,4 @@ var result = data.map(function (value, index, array) {
 });
 
 console.log(result);
+
