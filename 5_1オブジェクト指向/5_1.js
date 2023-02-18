@@ -1,1 +1,1 @@
-var Member = fucntion() {};
+// var Member = fucntion() {};
