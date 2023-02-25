@@ -7,7 +7,7 @@ document.addEventListener(
       { title: "アプリを作ろう!!", price: 2000 },
     ];
 
-    var flag = document.createDocumentFragment();
+    var frag = document.createDocumentFragment();
 
     for (var i = 0, len = books.length; i < len; i++) {
       var b = books[i];
